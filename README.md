@@ -2,5 +2,5 @@
 This is my first git projec
 <br>
 
-I am java Backend Devkoper
+I am java Backend Developer
 
